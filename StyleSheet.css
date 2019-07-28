@@ -1,0 +1,51 @@
+﻿body {
+}
+.label
+{
+	font-family: 'B Nazanin';
+	font-size: 13pt;	
+    font-weight: bold;
+    text-align: center;
+    }
+.label2
+{
+	font-family: 'B Nazanin';
+	font-size: 13pt;	
+    font-weight: bold;
+    color:#3A4D52;
+}
+.labelItems
+{
+	font-family: 'B Nazanin';
+	font-size: 12pt;	
+    font-weight: bold;
+    text-align: center;
+}
+.labelSormeie
+{
+	font-family: 'B Nazanin';
+	font-size: 13pt;	
+    font-weight: bold;
+    color:#003366;
+}
+.labelTitle
+{
+	font-family: 'B Nazanin';
+	font-size: 16pt;	
+    font-weight: bold;
+    color:#324347;
+}
+.labelItemsLot
+{
+	font-family: 'B Nazanin';
+	font-size: 11pt;	
+    font-weight: bold;
+    text-align: center;
+}
+.labelItemsRTL
+{
+	font-family: 'B Nazanin';
+	font-size: 12pt;	
+    font-weight: bold;
+    text-align: right;
+}
